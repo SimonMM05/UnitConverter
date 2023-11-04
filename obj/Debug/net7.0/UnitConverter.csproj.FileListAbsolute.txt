@@ -1,0 +1,14 @@
+D:\Programming\UnitConverter\bin\Debug\net7.0\UnitConverter.exe
+D:\Programming\UnitConverter\bin\Debug\net7.0\UnitConverter.deps.json
+D:\Programming\UnitConverter\bin\Debug\net7.0\UnitConverter.runtimeconfig.json
+D:\Programming\UnitConverter\bin\Debug\net7.0\UnitConverter.dll
+D:\Programming\UnitConverter\bin\Debug\net7.0\UnitConverter.pdb
+D:\Programming\UnitConverter\obj\Debug\net7.0\UnitConverter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\UnitConverter\obj\Debug\net7.0\UnitConverter.AssemblyInfoInputs.cache
+D:\Programming\UnitConverter\obj\Debug\net7.0\UnitConverter.AssemblyInfo.cs
+D:\Programming\UnitConverter\obj\Debug\net7.0\UnitConverter.csproj.CoreCompileInputs.cache
+D:\Programming\UnitConverter\obj\Debug\net7.0\UnitConverter.dll
+D:\Programming\UnitConverter\obj\Debug\net7.0\refint\UnitConverter.dll
+D:\Programming\UnitConverter\obj\Debug\net7.0\UnitConverter.pdb
+D:\Programming\UnitConverter\obj\Debug\net7.0\UnitConverter.genruntimeconfig.cache
+D:\Programming\UnitConverter\obj\Debug\net7.0\ref\UnitConverter.dll
