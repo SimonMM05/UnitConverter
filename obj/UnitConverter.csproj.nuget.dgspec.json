@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programming\\UnitConverter\\UnitConverter.csproj": {}
+    "C:\\Users\\simon\\Downloads\\HTX\\Studieretning\\Programmering\\UnitConverter\\UnitConverter.csproj": {}
   },
   "projects": {
-    "D:\\Programming\\UnitConverter\\UnitConverter.csproj": {
+    "C:\\Users\\simon\\Downloads\\HTX\\Studieretning\\Programmering\\UnitConverter\\UnitConverter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming\\UnitConverter\\UnitConverter.csproj",
+        "projectUniqueName": "C:\\Users\\simon\\Downloads\\HTX\\Studieretning\\Programmering\\UnitConverter\\UnitConverter.csproj",
         "projectName": "UnitConverter",
-        "projectPath": "D:\\Programming\\UnitConverter\\UnitConverter.csproj",
+        "projectPath": "C:\\Users\\simon\\Downloads\\HTX\\Studieretning\\Programmering\\UnitConverter\\UnitConverter.csproj",
         "packagesPath": "C:\\Users\\simon\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming\\UnitConverter\\obj\\",
+        "outputPath": "C:\\Users\\simon\\Downloads\\HTX\\Studieretning\\Programmering\\UnitConverter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\simon\\AppData\\Roaming\\NuGet\\NuGet.Config"

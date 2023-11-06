@@ -12,3 +12,17 @@ D:\Programming\UnitConverter\obj\Debug\net7.0\refint\UnitConverter.dll
 D:\Programming\UnitConverter\obj\Debug\net7.0\UnitConverter.pdb
 D:\Programming\UnitConverter\obj\Debug\net7.0\UnitConverter.genruntimeconfig.cache
 D:\Programming\UnitConverter\obj\Debug\net7.0\ref\UnitConverter.dll
+C:\Users\simon\Downloads\HTX\Studieretning\Programmering\UnitConverter\bin\Debug\net7.0\UnitConverter.exe
+C:\Users\simon\Downloads\HTX\Studieretning\Programmering\UnitConverter\bin\Debug\net7.0\UnitConverter.deps.json
+C:\Users\simon\Downloads\HTX\Studieretning\Programmering\UnitConverter\bin\Debug\net7.0\UnitConverter.runtimeconfig.json
+C:\Users\simon\Downloads\HTX\Studieretning\Programmering\UnitConverter\bin\Debug\net7.0\UnitConverter.dll
+C:\Users\simon\Downloads\HTX\Studieretning\Programmering\UnitConverter\bin\Debug\net7.0\UnitConverter.pdb
+C:\Users\simon\Downloads\HTX\Studieretning\Programmering\UnitConverter\obj\Debug\net7.0\UnitConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\Downloads\HTX\Studieretning\Programmering\UnitConverter\obj\Debug\net7.0\UnitConverter.AssemblyInfoInputs.cache
+C:\Users\simon\Downloads\HTX\Studieretning\Programmering\UnitConverter\obj\Debug\net7.0\UnitConverter.AssemblyInfo.cs
+C:\Users\simon\Downloads\HTX\Studieretning\Programmering\UnitConverter\obj\Debug\net7.0\UnitConverter.csproj.CoreCompileInputs.cache
+C:\Users\simon\Downloads\HTX\Studieretning\Programmering\UnitConverter\obj\Debug\net7.0\UnitConverter.dll
+C:\Users\simon\Downloads\HTX\Studieretning\Programmering\UnitConverter\obj\Debug\net7.0\refint\UnitConverter.dll
+C:\Users\simon\Downloads\HTX\Studieretning\Programmering\UnitConverter\obj\Debug\net7.0\UnitConverter.pdb
+C:\Users\simon\Downloads\HTX\Studieretning\Programmering\UnitConverter\obj\Debug\net7.0\UnitConverter.genruntimeconfig.cache
+C:\Users\simon\Downloads\HTX\Studieretning\Programmering\UnitConverter\obj\Debug\net7.0\ref\UnitConverter.dll
